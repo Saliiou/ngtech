@@ -1,6 +1,6 @@
 @font-face {
     font-family: Just;
-    src: url(../fonts/Jost-Regular.ttf);
+    src: url(./Jost-Regular.ttf);
 }
 /* Global */
 :root{
@@ -211,7 +211,7 @@ a#up i{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background: url('../img/banner-3.png') center/cover;
+    background: url('./hero.png') center/cover;
     z-index: 20;
     color: #fff;
     background-attachment:fixed;
